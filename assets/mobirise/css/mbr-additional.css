@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 
 
@@ -48,8 +49,8 @@
 }
 #msg-box4-3 .mbr-article P {
   text-align: center;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 23px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
 }
 #content5-8 .mbr-header .mbr-header__text {
   text-align: center;
@@ -77,4 +78,5 @@
 #social-buttons2-7 .mbr-header__text {
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
+  text-align: left;
 }
