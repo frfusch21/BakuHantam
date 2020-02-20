@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+
+
+
+
+
+
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #16a10e;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #16a10e;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-navbar__items a {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#header1-2 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+}
+#header1-2 P {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#msg-box4-3 .mbr-header__text {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #000000;
+}
+#msg-box4-3 .mbr-article P {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 23px;
+}
+#content5-8 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+}
+#content5-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8 .mbr-article {
+  color: #fff;
+}
+#content5-8 .mbr-article P {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+}
+#contacts1-4 P {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#social-buttons2-7 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
